@@ -1,0 +1,6 @@
+[submodule "sllide-share-web"]
+	path = sllide-share-web
+	url = https://github.com/R1013-T/slide-share-web
+[submodule "slide-share-server"]
+	path = slide-share-server
+	url = https://github.com/R1013-T/slide-share-server
