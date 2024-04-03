@@ -1,5 +1,8 @@
-# slide-share
 ![Architecture](https://github.com/R1013-T/slide-share/blob/main/assets/lt.png)
+# スライド共有アプリ
+参加しているLTサークルの スライドを共有できるWebアプリ。
+
+スライドのアップロードや、ユーザー認証認可も アプリ内で行えます。
 
 ## Usage Technologies
 ### Front End
