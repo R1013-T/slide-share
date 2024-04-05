@@ -1,6 +1,6 @@
-[submodule "sllide-share-web"]
-	path = sllide-share-web
-	url = https://github.com/R1013-T/slide-share-web
+[submodule "slide-share-web"]
+	path = slide-share-web
+	url = https://github.com/TECH-C-LT/slide-share-web
 [submodule "slide-share-server"]
 	path = slide-share-server
-	url = https://github.com/R1013-T/slide-share-server
+	url = https://github.com/TECH-C-LT/slide-share-server
