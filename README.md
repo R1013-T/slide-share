@@ -1,4 +1,4 @@
-![Architecture](https://github.com/R1013-T/slide-share/blob/main/assets/lt.png)
+![LTcircle](https://github.com/R1013-T/slide-share/blob/main/assets/lt.png)
 # スライド共有アプリ
 参加しているLTサークルの スライドを共有・管理できるプラットフォーム
 
@@ -28,3 +28,6 @@
 
 ## Architecture
 ![Architecture](https://github.com/R1013-T/slide-share/blob/main/assets/architecture.jpg)
+
+## Usage Diagram
+![Circle Architecture](https://github.com/R1013-T/slide-share/blob/main/assets/circle_architecture.jpg)
