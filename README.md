@@ -1,5 +1,3 @@
-![LTcircle](https://github.com/R1013-T/slide-share/blob/main/assets/lt.png)
-
 # スライド共有アプリ
 
 参加している LT サークルの スライドを共有・管理できるプラットフォーム
